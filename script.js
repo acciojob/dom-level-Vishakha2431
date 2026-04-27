@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let curr=document.getlElementById("level")
+let curr=document.getElementById("level")
 let count =0;
 while(curr){
 	count++;
