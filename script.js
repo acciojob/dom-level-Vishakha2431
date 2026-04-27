@@ -3,6 +3,7 @@ let curr=document.getElementById("level")
 let count =0;
 while(curr){
 	count++;
+
 	curr=curr.parentElement
 }
 
